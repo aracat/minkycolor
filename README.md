@@ -27,7 +27,7 @@ What I'm saying is don't take these pictures as the absolute hard truth. Your Mi
 
 # Methodology
 
-These pictures were taken using a Pixel 6 under 5000K lighting with the lights about 30 degrees above the camera. All of the processed pictures have been adjusted in Lightroom using the procedure suggested by the color calibration card's manufacturer. The calibration file is included in the repo, though it does not include the changes to white balance, exposure and curves to meet the process.
+These pictures were taken using a Pixel 6 under 5000K lighting with the lights about 30 degrees above the camera. All of the processed pictures have been adjusted in Lightroom using the [procedure suggested by the color calibration card's manufacturer](https://spyderx.datacolor.com/wp-content/uploads/2020/03/Spyder-Checkr-24-UserGuide.pdf)(page 10). The calibration file is included in the repo, though it does not include the changes to white balance, exposure and curves to meet the process.
 
 ```
                              Light
