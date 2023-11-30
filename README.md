@@ -19,7 +19,9 @@ Words of caution:
 
 What you see on your monitor or phone or whatever is an approximation of what things actually look like. I've done the best I know to get the pictures I took to be accurate, but if your display is not appropriately calibrated - and odds are it isn't - then this won't be true to life.
 
-You can compare against bits of minky you have and can look at, but this can only go so far.
+That being said, in theory if you're looking at these images and trying to match one to a reference image on the same display, they'll be close.
+
+To get a better idea of what a given color will look like when you have it in front of you, comparing these pictues against bits of minky you have and can look at may help but this will only go so far.
 
 ## The actual fabric can be hilariously inconsistent between batches
 
