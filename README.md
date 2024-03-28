@@ -48,42 +48,39 @@ Each swatch of minky has the left side brushed down with the nap of the fabric a
 Each image has an inverted version, where the whole swatch card is flipped upside down. This is important because the way the light strikes the minky vs the way it's been brushed can wildly change the way it appears. These are presented as the pictures were taken, so left/right need to be swapped for minky brushing. More combinations of light angle vs viewing angle may need to be captured because this can influence the perception quite a bit.
 
 # Cram It I Need Pictures Of Fabric!
-Let's get to it.
+
+Many colors are poorly represented in minky. You should look at ALL of swatch cards because there are some pretty subjective crossovers.
+
+* An orangeish character ended up having a better match on the Pinks card because Papaya is evidently pink???
+* A dull blue character ended up being somewhere between Midnight Blue (Blues card) and Malliard (Greens card) and which one was "correct" is both subjective and depends on the colors picked for other features.
 
 ## Blues
 
-![](processed/blue.png)
-![](processed/blue_invert.png)
+![](processed/blue.png) ![](processed/blue_invert.png)
 
 ## Grays
 
-![](processed/grays.png)
-![](processed/grays_invert.png)
+![](processed/grays.png) ![](processed/grays_invert.png)
 
 ## Greens
 
-![](processed/green.png)
-![](processed/green_invert.png)
+![](processed/green.png) ![](processed/green_invert.png)
 
 ## Pinks
 
-![](processed/pink.png)
-![](processed/pink_invert.png)
+![](processed/pink.png) ![](processed/pink_invert.png)
 
 ## Reds and Purples
 
-![](processed/redpurple.png)
-![](processed/redpurple_invert.png)
+![](processed/redpurple.png) ![](processed/redpurple_invert.png)
 
 ## Tans and Browns
 
-![](processed/tanbrown.png)
-![](processed/tanbrown_invert.png)
+![](processed/tanbrown.png) ![](processed/tanbrown_invert.png)
 
 ## Yellows and Oranges
 
-![](processed/yelloworange.png)
-![](processed/yelloworange_invert.png)
+![](processed/yelloworange.png) ![](processed/yelloworange_invert.png)
 
 # You messed this up because _______!
 
