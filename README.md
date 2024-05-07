@@ -5,7 +5,7 @@ Fun facts:
     1. High quality
     2. Color calibrated
 2. ... and an annoying number that are neither, along with being practically unlabeled.
-3. I'm angry about color mangament and you should be too.
+3. I'm angry about color management and you should be too.
 
 For what this is worth, I don't really know what I'm doing. I have a swatch set, a decent camera in my phone that can take RAW images, a copy of Lightroom, a color calibration card and the appropriate software to use said calibration card. What are my qualifications for doing this? Absolutely nothing other than owning those things and point 3 above.
 
